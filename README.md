@@ -1,3 +1,16 @@
+💫 Hi 👋, I'm Manya Rajput
+Full-Stack Developer 🚀 | Machine Learning & Data Science 🤖 | Python • C++ • SQL • MongoDB | Turning Ideas into Intelligent Applications | DSA • Problem Solving • Continuous Learner
+
+Email Me 👉 ✉️ manyarajput@gmail.com For Collaboration/Project or Anything Else. 😊😊
+
+🔭 I’m currently working on: My Own Project
+🌱 I’m currently learning: Machine Learning
+👯 I’m looking to collaborate on: ML projects and Web development projects
+🤔 I’m looking for help with: creating projects
+💬 Ask me about: Collaboration, Tech Support
+📫 How to reach me: manyarajputofficial@gmail.com
+😄 Pronouns: Manya Rajput
+⚡ Fun fact: I Love Tech and Tech Love Me
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Manya Rajput) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Manya Rajput) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:manyarajputofficial@gmail.com) 
