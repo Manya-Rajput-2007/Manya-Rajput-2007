@@ -1,4 +1,4 @@
-💫 Hi 👋, I'm Manya Rajput <br>
+## 💫 Hi 👋, I'm Manya Rajput <br>
 Full-Stack Developer 🚀 | Machine Learning & Data Science 🤖 | Python • C++ • SQL • MongoDB | Turning Ideas into Intelligent Applications | DSA • Problem Solving • Continuous Learner <br>
 
 Email Me 👉 ✉️ manyarajput@gmail.com For Collaboration/Project or Anything Else. 😊😊  <br>
